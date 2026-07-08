@@ -4,6 +4,6 @@ slug  : meta-ai-intro
 seal  : 9dab3d2c5fea44697c97742f7afca41a77e403047f741c9bc10dd51c0d95b190
 prev  : e11fba2767afc49602229de1000f5db5c8524ad9877dd8ecd117ae0f044387c1
 link  : 81bb5d1e9597e2a4889f7d14ada37793963a52f131823b2a5816ec71d9d0bbf3
-head  : 3447d3a0533aaf1e29a8bdc67a9774884fb3ae9dbc8a17064b7a008ca3c4ec90
+head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
